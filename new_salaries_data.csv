@@ -1,0 +1,733 @@
+,Major,Early Career Pay,Mid-Career Pay,% High Meaning
+0,Petroleum Engineering,93.2,187.3,67.0
+1,Operations Research & Industrial Engineering,84.8,170.4,28.0
+2,Electrical Engineering & Computer Science (EECS),108.5,159.3,46.0
+3,Interaction Design,68.3,155.8,55.0
+4,Public Accounting,59.8,147.7,47.0
+5,Operations Research,83.5,147.4,54.0
+6,Applied Economics and Management,66.1,146.4,67.0
+8,Actuarial Mathematics,64.3,143.4,51.0
+9,Electrical Power Engineering,76.1,142.6,68.0
+10,Information & Computer Science,58.6,140.9,62.0
+11,Aeronautics & Astronautics,77.6,139.6,56.0
+12,Systems Engineering,77.7,139.2,53.0
+13,Econometrics,64.2,139.0,35.0
+14,Pharmacy,68.6,138.7,78.0
+16,Building Science,53.8,135.9,53.0
+17,Chemical Engineering,76.9,135.9,55.0
+18,Cognitive Science,68.7,135.2,42.0
+19,Actuarial Science,67.7,134.4,43.0
+20,Political Economy,65.1,133.5,29.0
+21,Computer Systems Engineering,79.0,133.2,51.0
+22,Electrical & Computer Engineering (ECE),78.1,131.6,49.0
+23,Computer Science (CS) & Engineering,79.4,131.3,44.0
+48,Aeronautical Engineering,74.7,131.1,66.0
+49,Computer Engineering (CE),79.0,131.0,46.0
+50,Naval Architecture & Marine Engineering,74.4,130.7,49.0
+51,Entrepreneurship & Marketing,51.4,129.8,45.0
+52,Corporate Accounting & Finance,65.2,129.7,55.0
+53,Mechatronics,72.8,129.6,48.0
+54,Nuclear Engineering,76.4,129.4,62.0
+55,Electrical Engineering (EE),75.6,127.7,54.0
+56,Foreign Affairs,54.8,127.7,36.0
+58,Mechanical & Aeronautical Engineering,70.9,126.9,60.0
+59,Welding Engineering,81.0,126.6,56.0
+61,Computational & Applied Mathematics,75.5,126.0,45.0
+62,Electrical & Electronics Engineering (EEE),74.7,125.8,56.0
+63,Aerospace Engineering,74.3,125.7,55.0
+64,Astronomy,66.6,125.4,47.0
+66,Quantitative Business Analysis,74.0,125.4,37.0
+67,Computer Science (CS) & Mathematics,70.5,125.1,43.0
+68,Industrial & Systems Engineering,73.1,124.8,48.0
+69,Economics and Mathematics,68.2,124.1,35.0
+70,Biomedical Engineering (BME),71.3,123.6,72.0
+71,Managerial Economics,65.2,123.6,41.0
+72,Physics & Astronomy,56.5,123.4,36.0
+75,Electronics & Communications Engineering,67.4,122.9,51.0
+76,Control Engineering,69.7,122.8,61.0
+78,Business Analysis,63.2,122.3,46.0
+79,Aeronautical Science & Engineering,56.0,122.2,50.0
+80,Metallurgical Engineering,81.8,122.2,61.0
+81,Engineering Science,67.9,122.1,45.0
+82,Applied Mathematics,68.3,122.0,40.0
+83,Chemical & Biomolecular Engineering,76.8,121.9,48.0
+85,Engineering,69.9,121.7,59.0
+86,Ocean Engineering (OE),69.4,121.4,51.0
+87,Bioengineering (BioE),70.9,121.3,67.0
+88,Aeronautical/Aerospace Engineering Technology,76.9,121.2,53.0
+89,Integrated Science & Technology,65.2,121.1,56.0
+90,Operations Management & Information Systems,66.1,120.9,38.0
+91,Software Engineering,75.0,120.0,43.0
+92,Physics,65.9,119.7,48.0
+93,Quantitative Economics,65.0,119.6,43.0
+94,Computer & Information Science,63.6,119.5,55.0
+95,Geophysics,58.0,119.0,47.0
+96,Physician Assistant Studies,95.9,118.5,84.0
+97,Mining Engineering,78.8,118.3,64.0
+98,Construction Engineering Management,68.8,118.2,57.0
+99,Mechanical Engineering (ME),71.0,117.6,50.0
+100,Materials Science & Engineering,72.7,117.5,47.0
+102,Industrial Engineering (IE),71.9,117.4,44.0
+103,International Business & Finance,61.4,117.4,31.0
+104,Accounting & Computer Systems,63.0,117.3,37.0
+105,Business & Information Technology (IT),60.1,116.9,44.0
+106,Applied Physics,67.3,116.5,52.0
+107,International Economics,58.7,116.3,48.0
+108,Business & Economics,59.6,116.2,46.0
+110,Economics,62.0,115.7,41.0
+111,Pharmaceutical Sciences (PS),52.8,115.7,69.0
+112,Telecommunications Engineering,66.4,115.4,47.0
+113,Information & Decision Sciences,65.2,115.2,33.0
+114,Materials Engineering,72.3,115.2,58.0
+115,Paper Science,77.0,115.2,39.0
+116,Asian Studies,47.7,115.1,41.0
+117,Structural Engineering (SE),67.8,115.1,66.0
+118,Industrial Distribution,63.6,115.0,48.0
+119,Management Information Systems (MIS),65.0,114.1,42.0
+120,Finance & Economics,62.6,113.9,42.0
+122,Japanese Studies,51.5,113.8,21.0
+123,Automotive Engineering,67.3,113.8,48.0
+124,Information Management,64.3,112.8,38.0
+125,Management Science,64.6,112.7,43.0
+126,Mechanical,70.2,112.7,54.0
+127,Construction Engineering,67.3,112.5,59.0
+128,Finance & Investments,64.1,112.4,44.0
+129,Mathematics & Statistics,63.1,112.4,43.0
+130,Information Systems Management,59.2,112.3,49.0
+131,Construction Project Management,61.1,112.2,58.0
+132,Engineering Management,69.0,112.2,57.0
+133,Packaging Science,70.0,112.2,35.0
+134,Industrial Engineering & Management,68.3,112.0,55.0
+135,Engineering Physics,70.5,111.8,50.0
+136,Energy Management,72.3,111.7,71.0
+137,Aeronautical Science,57.7,111.6,57.0
+138,Government,55.1,111.2,47.0
+139,Software Applications & Programming,59.3,110.8,45.0
+140,Astrophysics,69.3,110.7,64.0
+142,Japanese Language,53.3,110.3,42.0
+143,Business Economics,58.4,110.2,43.0
+144,Manufacturing Engineering,69.3,110.0,47.0
+145,Atmospheric Science,48.7,109.9,55.0
+146,Cybersecurity,65.6,109.8,55.0
+147,Information Security & Assurance,61.4,109.3,47.0
+148,Medicine,60.6,109.2,92.0
+149,Civil Engineering (CE),65.0,109.0,65.0
+150,Environmental Health & Safety Management,61.1,108.8,61.0
+151,Mathematics,63.5,108.7,45.0
+152,Applied Economics,61.4,108.6,38.0
+153,Construction Science,67.4,108.5,63.0
+154,Political Communication,48.8,108.5,55.0
+155,Marketing & International Business,52.5,108.4,34.0
+156,Software Development,65.5,108.4,45.0
+157,Biochemistry & Molecular Biology,53.9,108.1,71.0
+158,Computing,63.5,108.0,53.0
+159,Construction Management,63.2,108.0,58.0
+160,Accounting & Taxation,55.6,107.8,41.0
+161,Building Construction (BC),67.2,107.8,52.0
+162,International & Comparative Politics,45.7,107.8,53.0
+163,Civil & Environmental Engineering,65.3,107.5,67.0
+164,Business Information Systems,65.0,107.4,43.0
+165,Financial Economics,63.3,107.2,41.0
+166,Sales & Business Marketing,55.9,107.2,51.0
+167,Plastics Engineering,68.4,107.1,58.0
+169,Informatics,70.3,106.8,42.0
+170,Computer Management Information Systems (CMIS),55.7,106.6,47.0
+171,Information Systems (IS),63.9,106.6,44.0
+172,Agricultural Economics,55.6,106.3,58.0
+173,Data Processing,65.6,106.2,45.0
+174,European Studies,47.5,106.1,46.0
+175,Biosystems Engineering,64.7,106.0,74.0
+176,Nuclear Engineering Technology (NET),83.5,106.0,62.0
+177,Economics & Political Science,57.1,105.7,47.0
+178,Global & International Studies,50.0,105.7,46.0
+180,Industrial Hygiene,58.6,105.5,55.0
+182,Commerce,66.8,105.4,40.0
+183,Rhetoric,51.6,105.4,44.0
+184,Business Computer Information Systems (BCIS),64.0,105.3,40.0
+185,Finance,60.2,105.2,42.0
+186,Plastics Engineering Technology,66.9,105.1,28.0
+187,Molecular Biology,54.1,105.0,67.0
+188,Environmental Engineering,62.6,104.8,62.0
+189,International Management,54.1,104.8,51.0
+190,Computer Information Systems,59.4,104.7,42.0
+191,Corporate Finance,63.6,104.3,43.0
+192,International Business,55.3,104.1,39.0
+193,Agricultural Engineering (AE),63.1,104.0,63.0
+194,Consumer Economics,53.7,103.8,40.0
+195,Finance & Marketing,56.8,103.7,46.0
+196,Computer Information Systems (CIS),60.5,103.5,47.0
+197,Business Finance,57.2,103.3,42.0
+198,Psychobiology,49.6,103.1,65.0
+199,Strategic Management,66.2,103.1,47.0
+200,Construction Trades,61.9,103.1,48.0
+201,Operations Management (OM),61.5,103.0,45.0
+202,Entrepreneurship & Leadership,57.1,102.9,43.0
+203,Electrical Engineering Technology (EET),66.3,102.8,47.0
+204,Computer Science & Information Technology,66.0,102.7,50.0
+205,Food Marketing,56.3,102.7,24.0
+206,International Marketing,59.0,102.6,22.0
+207,Network Engineering,60.7,102.6,55.0
+208,Building Construction Management,61.3,102.4,63.0
+209,Engineering Technology (ET),58.4,102.3,47.0
+210,International Relations,52.8,102.2,49.0
+211,Management & Finance,56.8,102.2,59.0
+212,Information Security,66.4,102.2,48.0
+214,Industrial Management,57.8,102.0,53.0
+215,Architectural Engineering,65.0,101.9,58.0
+216,Manufacturing,57.6,101.5,48.0
+217,Agricultural Economics & Business,54.9,101.4,56.0
+218,Web Development,56.4,101.3,46.0
+219,Aviation,54.0,101.2,48.0
+220,Telecommunications Management,55.0,101.2,42.0
+221,Property Management,55.2,101.0,47.0
+222,Comparative Literature,48.1,100.9,46.0
+223,Construction Science & Management,64.7,100.8,71.0
+224,Biotechnology,53.1,100.7,59.0
+225,Industrial & Labor Relations,69.8,100.6,44.0
+226,Real Estate,59.9,100.6,36.0
+227,Mechanical Engineering Technology (MET),64.2,100.4,48.0
+228,Labor Relations,53.0,100.3,41.0
+229,Electronics,57.5,100.2,63.0
+230,Biochemistry (BCH),50.4,99.9,62.0
+231,Politics,53.0,99.9,51.0
+232,Accounting & Auditing,57.8,99.8,45.0
+233,Chinese Language,54.2,99.6,43.0
+234,Information Science (IS),66.3,99.5,36.0
+235,East Asian Studies,49.8,99.4,42.0
+236,Accounting & Finance,59.2,99.3,45.0
+237,Network Security,62.3,99.3,50.0
+238,Information Technology (IT),59.1,99.2,46.0
+239,Aviation Management,50.9,99.1,58.0
+240,Agribusiness,50.7,98.9,53.0
+241,Business & Marketing,51.0,98.9,45.0
+242,Computer Engineering Technology (CET),63.0,98.9,47.0
+243,Computer Security,68.1,98.7,43.0
+244,Operations & Supply Chain Management,61.3,98.6,45.0
+246,Music Production & Engineering,43.1,98.4,43.0
+247,Industrial Engineering Technology,67.2,98.4,53.0
+248,Logistics & Supply Chain Management,59.0,98.3,47.0
+249,Supply Chain Management,61.7,98.3,41.0
+250,Accounts,59.8,98.3,44.0
+252,Environmental Policy Analysis & Planning,51.0,98.2,65.0
+253,Physical Therapy,55.5,98.2,88.0
+254,European History,52.3,98.0,47.0
+255,Robotics & Automation,66.1,98.0,63.0
+256,Geological Engineering,61.7,97.9,54.0
+257,Manufacturing Technology,59.9,97.9,46.0
+258,Chemistry,51.6,97.5,55.0
+259,Business Logistics & Transportation,56.4,97.4,44.0
+260,Food Science & Technology,53.1,97.3,49.0
+261,City & Regional Planning,51.8,97.2,70.0
+262,Civil Engineering Technology (CET),58.3,97.2,60.0
+263,Electronics Engineering Technology (EET),64.3,97.1,50.0
+264,Finance & Banking,55.3,97.1,47.0
+265,Mechanical Design,60.9,97.1,45.0
+266,Applied Technology,55.5,97.0,62.0
+267,Marketing & Management,50.0,96.9,45.0
+268,Technical & Scientific Communication,50.7,96.8,37.0
+269,Financial Planning,54.0,96.6,63.0
+270,Organizational Behavior,57.0,96.6,51.0
+271,Marketing,51.7,96.6,40.0
+272,Dairy Science,51.2,96.2,68.0
+273,Project Management,56.8,96.2,58.0
+274,Government & International Politics (GVIP),51.3,96.1,49.0
+275,Latin American Studies,46.7,96.1,62.0
+276,Industrial Design (ID),55.1,95.9,41.0
+277,Web Design & Development,53.1,95.9,44.0
+278,Computing & Information Systems (CIS),58.1,95.8,40.0
+279,Electromechanical Engineering,70.5,95.8,55.0
+280,Industrial Technology (IT),62.2,95.8,50.0
+281,Information Technology (IT) & Systems,61.1,95.8,47.0
+282,Biopsychology,53.3,95.7,74.0
+283,Government & Politics,52.4,95.7,51.0
+284,Microbiology & Immunology,54.9,95.4,68.0
+286,Interactive Media Design,54.0,95.3,38.0
+287,Risk Management,58.5,95.3,42.0
+288,Aeronautics,62.8,95.1,64.0
+289,Welding Engineering Technology,74.7,95.0,42.0
+291,Computer Science (CS) & Business,81.1,94.6,28.0
+292,Environmental Science & Policy,49.5,94.5,59.0
+293,Marketing & Communications,49.6,94.5,45.0
+294,Safety Management,60.1,94.5,70.0
+295,Business Technology Management,57.4,94.4,42.0
+296,Computer Networking Systems,55.6,94.4,49.0
+297,Biomedical Sciences,43.6,94.3,70.0
+298,Philosophy,52.6,94.3,41.0
+299,Sales & Marketing,52.7,94.3,48.0
+300,Manufacturing Engineering Technology,66.0,94.3,49.0
+301,Environmental Health & Safety,57.6,94.2,68.0
+302,Organizational Psychology,51.2,94.1,50.0
+303,Industrial Psychology,50.0,94.0,50.0
+304,Political Science,50.7,94.0,47.0
+307,Risk Management & Insurance,59.5,93.6,46.0
+308,Radiation Therapy,68.4,93.4,90.0
+309,French Literature,46.4,93.3,50.0
+310,Occupational Therapy (OT),54.1,93.3,88.0
+311,Advertising,47.2,93.2,32.0
+312,Geology,50.4,93.0,54.0
+313,Strategic Communication,47.1,93.0,42.0
+314,Transportation & Logistics Management,57.6,93.0,48.0
+315,Financial Accounting,56.1,92.9,51.0
+316,Cell & Molecular Biology,51.9,92.8,68.0
+317,Industrial Safety,55.2,92.8,78.0
+318,Insurance,56.0,92.8,43.0
+319,Manufacturing Management,64.0,92.8,49.0
+320,Networks & Telecommunications,54.3,92.8,56.0
+321,Labor Studies,46.6,92.6,49.0
+322,Digital Media Design,46.7,92.6,31.0
+323,Advertising & Marketing Communications,48.3,92.6,36.0
+324,Cinema Studies,47.9,92.5,33.0
+325,Electronic & Computer Technology,63.8,92.5,58.0
+326,Marketing Communication,45.7,92.5,39.0
+328,Architecture,51.0,92.3,53.0
+329,Applied Statistics,65.9,92.2,47.0
+330,Biological Sciences,49.3,92.1,66.0
+331,Food Science,52.5,92.1,51.0
+332,Urban & Regional Planning,51.8,92.1,60.0
+333,Marketing Management,51.3,92.0,42.0
+334,Computer & Network Administration,56.8,91.9,47.0
+335,Applied Computer Science,66.1,91.8,44.0
+336,Environmental Design,47.7,91.4,55.0
+337,Hotel Management,49.1,91.4,44.0
+338,Advertising Design,52.7,91.3,28.0
+339,Digital Arts,45.6,91.3,35.0
+340,Financial Management,54.3,91.3,54.0
+342,Italian Language,51.4,91.1,43.0
+343,German Studies,50.0,91.0,42.0
+344,Quality Management,57.4,90.8,60.0
+345,Microbiology,48.4,90.3,68.0
+346,Entrepreneurship,54.8,90.3,47.0
+347,Interactive Media,52.7,90.2,35.0
+348,Global Business Management,55.9,90.2,52.0
+349,Network Systems Administration,57.9,90.2,50.0
+352,Business Data Analysis,64.7,90.0,36.0
+354,Spanish Literature,51.1,90.0,50.0
+355,Business Technology,52.8,89.9,42.0
+356,Business Management & Marketing,48.9,89.8,48.0
+357,Technical Management,64.4,89.7,62.0
+358,Human Biology,51.1,89.6,70.0
+359,Meteorology,46.2,89.5,57.0
+360,Urban Planning,50.5,89.2,53.0
+361,Aviation Technology,58.1,89.1,49.0
+362,Environmental Health,50.0,89.1,65.0
+363,Agricultural Science,48.9,88.9,59.0
+364,Agronomy,50.2,88.9,65.0
+365,International Studies,50.0,88.9,51.0
+366,Design,52.8,88.8,40.0
+368,Architectural Engineering Technology,52.2,88.7,59.0
+369,German Language,50.7,88.7,41.0
+370,Technology,56.2,88.6,64.0
+371,Advertising & Promotion,46.1,88.5,46.0
+372,Pre-law,46.8,88.4,45.0
+373,Digital Media,47.3,88.2,38.0
+374,Biological Anthropology,46.2,88.1,49.0
+375,Personal Financial Planning,53.8,88.1,60.0
+377,Textile Technology,54.0,88.0,42.0
+378,Web & Digital Media Development,52.3,88.0,33.0
+379,Entrepreneurial Studies,48.7,87.9,37.0
+380,Fashion Design,47.5,87.7,27.0
+381,Retailing,51.3,87.6,35.0
+382,Business Communication,50.9,87.3,47.0
+383,Environmental Science,49.1,87.3,59.0
+384,English Literature,47.7,87.0,45.0
+385,Logistics,57.6,87.0,41.0
+386,Math & Science,55.6,86.9,66.0
+387,International Trade & Business,54.8,86.8,27.0
+388,Pre-Medicine,50.8,86.8,67.0
+391,Advertising & Marketing,49.0,86.7,38.0
+392,Geographic Information Systems (GIS) & Spatial Analysis,54.0,86.7,57.0
+393,Marketing & Mass Communications,45.4,86.7,41.0
+395,General Business,50.2,86.6,51.0
+396,Construction Engineering Technology,55.8,86.4,53.0
+397,Architectural Studies,45.4,86.4,42.0
+398,Aviation Maintenance Technology,51.0,86.3,60.0
+399,Communication Studies & Journalism,44.8,86.2,47.0
+400,Management,51.6,86.2,48.0
+401,General Science,49.1,86.1,60.0
+402,Magazine Journalism,46.8,86.1,32.0
+404,Theatre & Drama Studies,44.8,86.0,49.0
+405,Animation,45.0,85.9,35.0
+406,Biology & Chemistry,49.2,85.9,66.0
+407,Diagnostic Medical Ultrasound,67.7,85.9,67.0
+408,Public Affairs,52.7,85.9,50.0
+409,Romance Languages,53.0,85.9,53.0
+410,Physiology,49.3,85.9,63.0
+411,Corporate Communications,48.5,85.7,42.0
+412,International Affairs,51.6,85.7,52.0
+413,Nursing Science,66.8,85.7,84.0
+414,Organizational Development,53.8,85.7,54.0
+415,Textile & Apparel Studies,47.1,85.7,30.0
+416,Business Administration,52.8,85.6,50.0
+417,Business Administration & Accounting,52.4,85.6,55.0
+418,Philosophy & Religion,43.8,85.6,55.0
+419,Architectural Design,47.7,85.4,60.0
+420,Textile Design,50.0,85.2,43.0
+421,Interpersonal & Organizational Communication,42.4,85.2,56.0
+422,Geographic Information Systems (GIS),50.0,85.1,52.0
+423,Business Management,51.7,85.0,51.0
+424,Linguistics,52.1,84.9,43.0
+425,French Language,49.6,84.8,47.0
+426,Communication,48.0,84.7,45.0
+427,Neuroscience,51.8,84.7,58.0
+428,Business Management & Human Resources Management (HRM),46.8,84.6,57.0
+429,Journalism & Mass Communication,46.3,84.6,44.0
+430,Accounting & Management,55.5,84.5,52.0
+431,Sociology & Organizational Studies,53.5,84.3,57.0
+432,French Studies,52.4,84.2,57.0
+433,Writing,44.2,84.2,42.0
+434,Nursing,65.0,84.2,83.0
+435,History,47.8,84.1,46.0
+436,Biology,47.1,84.0,65.0
+437,Land Surveying,51.9,84.0,54.0
+438,Architectural Technology,46.7,83.9,61.0
+439,Health Care,44.4,83.9,74.0
+440,Integrated Marketing Communications,47.0,83.9,36.0
+441,Agriculture,47.7,83.8,61.0
+442,Digital Design,50.0,83.6,40.0
+443,Marketing & Advertising,49.3,83.6,44.0
+444,Organizational Communication,46.4,83.6,49.0
+445,Visual Effects & Motion Graphics,48.1,83.4,38.0
+446,Public Relations & Communication,45.7,83.3,47.0
+447,General & Strategic Management,51.2,83.3,55.0
+448,Foreign Languages,48.4,83.1,52.0
+449,Retail Merchandising,50.9,83.1,31.0
+450,Agribusiness Management,47.7,83.0,46.0
+451,Global Business,55.8,83.0,31.0
+452,Professional & Technical Writing,48.5,83.0,44.0
+453,Computer Art,40.4,82.9,31.0
+454,Environmental Management,50.2,82.9,62.0
+455,Environmental Studies,48.5,82.9,59.0
+457,International Development Studies,47.7,82.8,64.0
+458,Natural Sciences,45.1,82.8,55.0
+459,Retail & Consumer Science,51.8,82.8,32.0
+460,Literature,46.8,82.8,47.0
+461,Bachelor in Science Nursing,64.0,82.7,81.0
+462,History & Political Science,50.6,82.7,50.0
+463,Museum Studies,38.9,82.7,50.0
+465,Dental Hygiene,72.7,82.6,80.0
+466,Law,54.3,82.6,53.0
+467,Network Technology,59.8,82.6,57.0
+468,Media Studies,50.7,82.4,38.0
+469,Environmental Geography,50.2,82.3,52.0
+470,Law Enforcement,46.7,82.2,60.0
+471,Nuclear Medicine,60.3,81.9,81.0
+472,Bachelor of Science in Nursing,63.8,81.9,83.0
+473,Computer Animation,46.8,81.8,36.0
+474,Landscape Architecture,51.5,81.8,65.0
+475,Publishing,46.3,81.8,39.0
+476,Interior Architecture,47.6,81.5,45.0
+477,Diagnostic Medical Sonography,64.3,81.4,86.0
+478,Environmental & Natural Resource Economics,52.4,81.4,65.0
+479,Public Relations (PR),45.6,81.4,42.0
+480,American History (United States),50.9,81.3,52.0
+481,Drama,47.4,81.1,47.0
+482,Management (MGT),47.0,81.0,62.0
+483,Merchandising Management,46.8,80.9,38.0
+484,Environmental Biology,45.0,80.8,70.0
+485,Accounting & Business,52.4,80.7,48.0
+486,Automotive Technology & Service Management,48.8,80.5,32.0
+487,Speech Communication,46.7,80.5,54.0
+488,Allied Health,44.8,80.4,78.0
+490,Emergency Management,50.9,80.3,80.0
+491,Network Administration,48.7,80.3,56.0
+492,Communication Management,46.0,80.2,38.0
+494,Broadcast Journalism,42.9,79.9,50.0
+495,Broadcast & Cinematic Arts,42.8,79.9,43.0
+496,Automotive Technology,48.1,79.8,47.0
+497,Business Management & Administration,51.4,79.8,53.0
+498,Agricultural Business,52.7,79.7,51.0
+499,Technology Management,56.4,79.7,47.0
+500,Global Studies,51.2,79.6,46.0
+501,Professional Studies,42.8,79.6,62.0
+502,Interpersonal Communications,45.0,79.5,53.0
+503,Forestry,45.9,79.4,67.0
+505,Botany,42.6,79.3,73.0
+506,Geography,49.7,79.3,52.0
+508,Nutrition Science,49.5,79.2,70.0
+509,Acting,44.2,79.1,50.0
+510,Public Management,50.2,79.1,66.0
+511,Nuclear Medicine Technology,61.7,79.0,82.0
+512,Apparel & Textile Manufacture,48.3,78.9,37.0
+513,English Language & Literature,46.4,78.9,44.0
+514,Urban Studies,51.5,78.9,57.0
+515,Mass Communication,44.8,78.8,44.0
+516,Forestry Management,48.6,78.7,71.0
+517,Radio/Television & Film Production,45.7,78.7,39.0
+518,Hospital Management,53.2,78.6,45.0
+519,Human Resources Management (HRM),47.9,78.5,55.0
+520,Marine Science,46.1,78.4,64.0
+521,American Sign Language Interpreting,43.1,78.3,87.0
+522,English & History,45.7,78.3,49.0
+523,English Language,44.6,78.3,45.0
+524,Cytotechnology,61.9,78.2,89.0
+525,Geosciences,48.7,78.2,62.0
+526,Hospital Administration,51.2,78.2,57.0
+527,Film Production,44.6,78.1,33.0
+528,Zoology,42.1,77.9,67.0
+529,Communication Design,51.7,77.8,34.0
+530,Leadership,47.2,77.5,57.0
+531,Music Technology,44.8,77.5,39.0
+533,Technical Writing,53.3,77.5,42.0
+534,Agricultural Communication,44.6,77.4,52.0
+535,Logistics Management,56.3,77.4,49.0
+536,German Language & Literature,49.4,77.3,47.0
+537,Administration,44.6,77.1,58.0
+538,Apparel Merchandising,47.6,77.1,35.0
+539,Computer Aided Drafting & Design (CADD),49.1,77.1,52.0
+540,Organizational Leadership & Supervision,49.6,77.1,51.0
+542,Spanish Language,47.7,77.1,51.0
+543,Multimedia,44.7,77.0,45.0
+544,Spanish Language Teacher Education,45.5,76.9,73.0
+545,Public Administration,46.7,76.9,57.0
+546,Human Nutrition,48.6,76.9,85.0
+547,Audio Engineering,48.3,76.8,39.0
+548,Graphics Technology & Management,39.5,76.8,38.0
+549,Physical Anthropology,52.9,76.8,51.0
+550,Organizational Leadership,50.5,76.7,58.0
+551,Environmental Health Science,53.8,76.6,61.0
+552,Journalism & Electronic Media,45.2,76.5,48.0
+553,Religious Studies,43.9,76.3,55.0
+554,Art History,46.6,76.2,45.0
+555,Radiologic Science,57.6,76.2,81.0
+556,3D Animation,51.8,76.0,42.0
+557,Culture Studies,48.1,75.9,40.0
+558,Merchandising,53.1,75.9,31.0
+559,Administrative Management,52.7,75.8,50.0
+560,Human Resources (HR),47.3,75.8,56.0
+561,Liberal Arts,44.5,75.8,53.0
+562,Adult Education & Training,48.7,75.6,79.0
+563,Fashion Merchandising,46.9,75.6,29.0
+564,Health & Fitness,39.8,75.6,67.0
+565,Natural Resources,47.4,75.5,64.0
+566,Organizational Management,48.8,75.5,57.0
+567,Modern Languages,50.3,75.4,53.0
+568,Natural Resource Management,46.5,75.4,60.0
+569,Retail Management,50.1,75.4,35.0
+570,Sociology & Anthropology,44.5,75.4,50.0
+571,Creative Writing,45.3,75.2,41.0
+572,Criminal Justice Administration,45.7,75.1,56.0
+573,Ethnic Studies,47.5,74.9,63.0
+574,Philosophy & Religious Studies,49.3,74.9,61.0
+575,Radiology,54.8,74.9,80.0
+576,Sports Management,45.4,74.4,43.0
+578,Broadcast Communication,40.0,74.3,44.0
+579,Criminology,44.7,74.3,54.0
+580,Earth Science,50.0,74.3,48.0
+581,Media & Technology,45.2,74.3,43.0
+582,Visual Communications,45.4,74.3,38.0
+583,Advertising & Graphic Design,46.8,74.2,37.0
+584,Applied Behavior Analysis,38.7,74.2,81.0
+585,Psychology,44.7,74.2,56.0
+586,Applied Management,45.5,74.1,53.0
+587,Hotel & Restaurant Management,47.3,74.1,48.0
+588,Anthropology,46.4,73.9,46.0
+589,Arts Management,39.4,73.8,48.0
+590,Diagnostic Medical Imaging,60.6,73.8,73.0
+591,Communication Arts,42.4,73.6,39.0
+592,Middle Eastern Studies,57.1,73.6,48.0
+593,Radiologic Technology,55.2,73.6,83.0
+594,Painting & Printmaking,34.7,73.6,41.0
+595,Cardiopulmonary Science,48.9,73.4,90.0
+596,Human Relations,45.0,73.4,63.0
+597,Humanities,48.5,73.2,49.0
+598,Health Care Administration,45.8,73.1,69.0
+599,Health Care Management,46.7,73.0,72.0
+600,Ecology,46.4,72.9,57.0
+601,Media Arts,46.5,72.9,34.0
+602,Respiratory Care,54.8,72.8,84.0
+603,Art & Design,45.1,72.7,38.0
+604,Health Information Management,49.0,72.7,69.0
+605,Hospitality Management,46.4,72.7,43.0
+606,Health Teacher Education,37.9,72.6,46.0
+607,Sports Medicine,50.1,72.6,77.0
+608,Multimedia & Web Design,50.2,72.6,34.0
+609,Sociology,46.2,72.5,55.0
+610,Liberal Studies,44.3,72.4,56.0
+611,Interior Design,45.1,72.3,50.0
+612,Medical Laboratory Science,55.6,72.3,85.0
+613,Secondary Education,44.6,72.3,59.0
+614,Child Psychology,38.9,72.2,64.0
+615,Exercise Physiology,44.1,72.2,76.0
+616,Radiography,55.3,72.2,85.0
+617,Archaeology,45.9,72.1,46.0
+618,Art Administration,40.2,72.1,56.0
+619,Hotel & Restaurant Tourism,44.3,72.1,49.0
+620,Illustration,45.2,72.1,36.0
+622,Health,44.2,71.9,73.0
+623,Turfgrass Management,53.1,71.9,51.0
+624,SocialStudies,45.8,71.7,57.0
+625,Human Resources Development,48.6,71.6,50.0
+626,Speech Pathology & Audiology,44.1,71.6,78.0
+627,Clinical Laboratory Science,55.1,71.5,83.0
+628,Forensic Science,46.0,71.5,64.0
+629,Health Administration,42.7,71.5,66.0
+630,Geomatics,52.3,71.4,70.0
+631,Media Communication,47.0,71.4,45.0
+633,Commercial Photography,43.8,71.3,23.0
+634,Fashion Design & Marketing,45.3,71.1,44.0
+635,Mass Media,40.3,71.1,49.0
+636,Medical Technology,56.5,71.0,81.0
+637,Respiratory Therapy,54.5,70.9,82.0
+638,Theater,44.6,70.7,50.0
+639,Forensic Psychology,43.0,70.6,54.0
+640,Kinesiology,44.8,70.6,66.0
+641,Performing Arts,45.7,70.5,57.0
+642,Psychology & Social Behavior,45.8,70.5,59.0
+643,Religion,44.4,70.5,59.0
+644,Radio & Television,43.1,70.5,41.0
+645,Technology Teacher Education,47.7,70.4,57.0
+646,Educational Studies (ED),40.3,70.2,65.0
+647,Music,44.3,70.2,55.0
+648,Drafting & Design,51.0,70.1,69.0
+649,Plant Sciences,48.0,70.1,60.0
+650,Criminal Justice,42.8,69.8,56.0
+651,Web Design,49.9,69.8,25.0
+652,Graphic Design,45.1,69.7,37.0
+653,Nutrition,48.1,69.6,65.0
+654,Nutrition & Dietetics,50.8,69.6,72.0
+657,Fashion Marketing & Management,47.7,69.1,30.0
+658,Interdisciplinary Studies (IS),44.6,68.9,56.0
+659,Hospitality & Tourism,44.2,68.8,41.0
+660,Human Ecology,42.1,68.8,54.0
+661,Ornamental Horticulture,46.0,68.8,69.0
+662,Physical Therapist Assistant Studies,49.9,68.8,85.0
+663,Public Health (PH),46.0,68.8,69.0
+664,Art Therapy,41.1,68.6,80.0
+665,Dietetics,51.3,68.6,74.0
+667,Applied Sociology,42.2,68.5,57.0
+668,Fine Arts,43.2,68.5,44.0
+669,Modern Language Spanish,43.8,68.5,52.0
+670,Women's Studies,45.2,68.5,59.0
+671,Social & Criminal Justice,44.8,68.5,59.0
+672,New Media,46.0,68.3,33.0
+673,Textiles & Clothing,45.1,68.3,47.0
+674,Event Management,41.7,68.2,40.0
+675,Family & Consumer Science,42.6,68.0,59.0
+676,Speech-Language Pathology,44.1,67.9,70.0
+677,Technical Theatre,41.0,67.6,42.0
+678,Education,44.1,67.5,65.0
+679,Foods & Nutrition,47.0,67.5,68.0
+680,Recreation Management,42.3,67.5,58.0
+681,Business & Healthcare Management,46.9,67.3,69.0
+683,Music Composition,44.0,66.9,51.0
+684,Art,43.4,66.7,46.0
+685,Psychology & Sociology,42.8,66.7,53.0
+686,Drawing & Painting,42.8,66.6,48.0
+687,Nonprofit Management,42.3,66.3,79.0
+688,Small Business Management,47.1,66.2,38.0
+689,Behavioral Science,43.0,66.0,62.0
+691,Health Services Administration,42.7,65.8,63.0
+692,Multidisciplinary Studies,41.8,65.8,53.0
+693,Restaurant & Food Service Management,43.9,65.8,45.0
+694,Consumer Affairs,51.0,65.7,43.0
+696,Electronic Media,45.3,65.6,37.0
+697,Environmental Resource Management,48.7,65.5,65.0
+698,Theatre Arts,43.5,65.3,51.0
+699,Applied Linguistics,46.8,65.2,44.0
+700,African American & African Studies,46.4,65.1,60.0
+701,Exercise & Sports Science,42.6,65.1,70.0
+702,General Studies,43.6,65.1,52.0
+703,Justice Studies,45.3,65.1,50.0
+704,Video Production,42.8,65.1,33.0
+705,Graphic Arts,42.7,64.9,41.0
+706,Physical Education Teaching,42.2,64.9,69.0
+707,Health Services Management,41.6,64.8,83.0
+708,Physical Education & Exercise Science,44.1,64.8,72.0
+709,Drawing,37.4,64.8,39.0
+710,Exercise Science,41.4,64.7,73.0
+711,Printmaking,38.4,64.3,40.0
+712,Sports Administration,43.3,64.3,47.0
+713,Theology,42.8,64.3,68.0
+714,Interior Design & Merchandising,43.7,64.2,37.0
+715,Recreation & Leisure Studies,40.3,64.2,60.0
+716,Human Development,43.7,64.1,64.0
+717,Music Industry,45.8,64.1,38.0
+718,Wildlife Management,39.7,64.1,49.0
+719,Supervision & Management,41.7,64.1,57.0
+720,Culinary Arts & Food Service Management,41.3,64.0,50.0
+721,Mortuary Science,43.5,64.0,85.0
+722,Clinical Psychology,43.0,63.9,65.0
+723,Community Health Education,42.6,63.9,75.0
+724,Dance,45.1,63.9,62.0
+725,Speech Pathology,42.8,63.7,69.0
+726,Gender Studies,45.5,63.6,55.0
+727,Secondary English Teacher Education,42.0,63.6,64.0
+728,Photography,43.8,63.5,38.0
+729,English Teacher Education,43.3,63.1,57.0
+730,Paralegal Studies,39.6,63.1,50.0
+731,Social Studies Teacher Education,43.4,63.1,65.0
+732,Teaching English as a Second Language (ESL),42.8,63.0,73.0
+733,Music Teacher Education,42.0,63.0,62.0
+734,Health Promotion,42.3,62.8,69.0
+735,Recording Arts,44.8,62.8,48.0
+736,Photojournalism,41.9,62.6,59.0
+737,Recreation Administration,47.0,62.5,71.0
+738,Radio Broadcasting,46.3,62.4,33.0
+739,Sculpture,40.3,62.2,47.0
+740,Painting,40.7,62.0,44.0
+741,Psychology & Social Sciences,42.6,62.0,68.0
+742,Health & Physical Education Teaching,38.7,61.9,65.0
+744,Instrumental Music Teacher Education,41.7,61.6,65.0
+746,Community Health,45.4,61.3,72.0
+747,Health & Human Performance,38.1,61.1,68.0
+748,Music Therapy,43.1,60.7,93.0
+749,Social Services,39.9,60.5,82.0
+750,Rehabilitation Services,35.8,60.2,79.0
+751,Horticulture,43.0,60.1,59.0
+752,University Studies,42.4,60.0,49.0
+753,Church Ministries,40.0,59.9,79.0
+754,Communicative Disorders,47.4,59.8,73.0
+756,Wildlife Biology,42.9,59.8,60.0
+757,Community Development,44.6,59.4,63.0
+759,Athletic Training,42.1,59.3,75.0
+760,Biblical Studies,40.5,59.0,72.0
+761,Biblical Studies & Practical Ministries,36.4,58.9,76.0
+762,Counseling Psychology,42.7,58.9,64.0
+763,Recreational Studies,42.1,58.9,69.0
+764,Teaching,42.0,58.9,72.0
+765,Home Economics,41.8,58.7,69.0
+766,Library & Information Science,48.2,58.7,48.0
+767,Human Development & Family Studies,40.3,58.6,66.0
+768,Landscape Design,49.0,58.5,63.0
+769,Ceramics,42.2,58.3,51.0
+771,Parks & Recreation Management,42.7,58.3,56.0
+772,Pastoral Ministry,38.7,58.0,83.0
+773,Vocal Performance,42.6,58.0,65.0
+774,Art Teacher Education,40.3,57.5,62.0
+775,Bible Studies & Theology,40.0,57.5,67.0
+776,Forensic Accounting,48.3,57.2,48.0
+777,Communication Sciences & Disorders,43.3,57.1,76.0
+778,Legal Assistant Studies,38.1,57.1,38.0
+779,Special Education,41.3,57.0,76.0
+780,Conservation Biology,42.8,56.9,57.0
+781,Family Studies,39.2,56.8,68.0
+782,Christian Ministry,38.1,56.4,79.0
+783,Speech & Hearing,43.3,56.4,76.0
+784,Health and Human Services,43.5,56.3,65.0
+785,Musical Theatre,43.5,56.1,50.0
+786,History Teacher Education,47.7,55.6,46.0
+788,Therapeutic Recreation,39.5,54.9,82.0
+789,Applied Behavioral Science,40.5,54.6,50.0
+790,Community & Human Services,42.4,54.6,80.0
+791,Social Work (SW),38.6,54.6,76.0
+792,Ministry,36.7,54.3,81.0
+793,Family & Community Services,42.2,54.3,74.0
+794,Youth Ministry,37.4,54.2,76.0
+795,Elementary Education,40.0,53.8,69.0
+796,Voice & Opera,34.5,53.3,57.0
+797,Christian Education,38.7,53.2,82.0
+798,Conflict Resolution,44.4,53.2,50.0
+799,Baking & Pastry Arts,37.5,53.0,44.0
+802,Human Services (HS),38.7,52.5,71.0
+803,Counseling,39.9,51.7,78.0
+804,Recreational Therapy,38.4,51.6,84.0
+805,Child Development,37.4,51.4,73.0
+807,Middle School Education,41.2,50.8,73.0
+808,Mental Health Counseling,36.1,50.0,78.0
+809,Early Childhood & Elementary Education,38.0,48.4,77.0
+810,Equine Studies,35.7,47.1,50.0
+811,Addiction Studies,38.0,47.0,84.0
+812,Child & Family Studies,36.4,46.5,73.0
+814,Outdoor Education,37.4,46.3,52.0
+815,Early Childhood Education,36.1,45.4,78.0
+817,Metalsmithing,40.0,40.3,33.0
